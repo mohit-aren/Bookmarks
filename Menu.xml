@@ -1,0 +1,21 @@
+﻿<Menus>
+  <Menu ID="Home" URL="Default.aspx">
+    <!--SubMenu>About Social Trade~About.aspx</SubMenu>
+    <SubMenu>Founder's Message~Founder.aspx</SubMenu>
+    <SubMenu>Vision &amp; Mission~Vision.aspx</SubMenu>
+    <SubMenu>Legal Documents~Legal.aspx</SubMenu>
+    <SubMenu>Bank Accounts~Bank.aspx</SubMenu-->
+  </Menu>
+  <!--Menu ID="Website Links" URL="Terms.aspx">
+    <SubMenu>Terms of use~Terms.aspx</SubMenu>
+    <SubMenu>Refund Policy~Refund.aspx</SubMenu>
+    <SubMenu>Privacy Policy~Privacy.aspx</SubMenu>
+    <SubMenu>FAQ~FAQ.aspx</SubMenu>
+    <SubMenu>Contact Us~ContactUs.aspx</SubMenu>
+  </Menu-->
+  <Menu ID="Category Master" URL="CategoryMaster.aspx">
+  </Menu>
+  <Menu ID="Url Master" URL="UrlMaster.aspx">
+  </Menu>
+
+</Menus>
